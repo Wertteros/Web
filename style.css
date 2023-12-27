@@ -1,0 +1,78 @@
+
+body {
+  background: url('resources/image1.jpg') no-repeat center center fixed;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+
+
+.practical-button {
+  background-color: #f0f0f0;
+  color: #333;
+  border: 2px solid #0077b5;
+  padding: 15px 30px;
+  font-size: 18px;
+}
+
+
+
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+h1,
+h2,
+h3 {
+  color: #0077b5;
+}
+
+button {
+  background-color: #0077b5;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #00b0ff;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: transparent;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: #444343;
+}
+td {
+  background-color: #ffffff;
+  color: #333;
+}
+
